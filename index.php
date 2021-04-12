@@ -1,3 +1,5 @@
+//Done for the fun of creating
+
 <?php
 
 	include 'config/db_connect.php';
